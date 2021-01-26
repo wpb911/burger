@@ -10,23 +10,23 @@ h1 { text-align: center }
 
 <h2 class="eat">Uneaten Burgers!</h2>
 
-<ul>
+<ol>
   {{#each burgers}}
     {{#unless devoured}}
       {{> burgers/burger-block devoured=true}}
     {{/unless}}
   {{/each}}
-</ul>
+</ol>
 
 <h2 class="ate">Devoured Burgers!</h2>
 
-<ul>
+<ol>
   {{#each burgers}}
     {{#if devoured}}
       {{> burgers/burger-block devoured=false}}
     {{/if}}
   {{/each}}
-</ul>
+</ol>
 
 
 
