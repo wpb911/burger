@@ -1,0 +1,28 @@
+body {
+    background-color: orange;
+    position: relative;
+    margin: auto;
+    display: block;
+    margin-top: 5%;
+    width: 300px;
+    height: 300px;
+}
+
+
+.devour-burger {
+    position: relative;
+    
+}
+
+
+.eat {
+    position: relative;
+    right: 50px;
+  
+}
+
+.ate {
+    position: relative;
+    left: 50px;
+  
+}
