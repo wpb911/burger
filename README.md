@@ -20,8 +20,7 @@ This project required creating a burger logger with MySQL, Node, Express, Handle
   npm start
 
   An sample run of the application can be seen here:
-  [Sample Screenshot](burger.png) 
-
+  [Sample Burger app Screenshot](burger.png) 
 
   ## Tests
   There are no currently defined test units. 
