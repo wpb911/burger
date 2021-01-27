@@ -20,7 +20,7 @@ This project required creating a burger logger with MySQL, Node, Express, Handle
   npm start
 
   An sample run of the application can be seen here:
-  [Sample Video](readmegen.mov) 
+  [Sample Screenshot](burger.png) 
 
 
   ## Tests
