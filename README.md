@@ -22,7 +22,7 @@ This project required creating a burger logger with MySQL, Node, Express, Handle
   An sample run of the application can be seen here:
   [Sample Burger app Screenshot](burger.png) 
   
-  The app is live: [Burger App](https://evening-fjord-41403.herokuapp.com/)
+  Use the app here: [Burger App](https://evening-fjord-41403.herokuapp.com/)
 
   ## Tests
   There are no currently defined test units. 
